@@ -1,9 +1,15 @@
 main{
-    width: 80%;
+    width: 120%;
     margin: auto;
 }
 .slider-1 img{
     width: 100%;
-    height: auto;
+    height: 600px;
+    
+}
+
+.menu{
+    position: fixed;
+    z-index: 9999;
 }
 
