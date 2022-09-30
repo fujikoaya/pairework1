@@ -1,1 +1,5 @@
-$('.slider-1').slick();
+$('.slider-1').slick({
+    // arrows: true,
+    autoplay: true,
+
+});
