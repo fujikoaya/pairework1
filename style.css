@@ -23,19 +23,31 @@ main{
 
 }
 
+.container img{
+    margin-top: 200px;
+    width: 1500px;
+    height: 600px; 
+}
+
 .container{
-    margin: 0 auto;
-    padding: 0 60px;
     position: relative;
 }
 
-
 #syokugurume{
     position: absolute;
-    margin-top: 300px;
+    top: 500px;
+    left: 200px;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
 }
 
-.text-wrapper img{
-    margin-top: 200px;
+.gohan{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
+.gohan img{
+    padding-top: 100px;
 }
