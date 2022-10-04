@@ -73,30 +73,3 @@ main{
     align-items: center;
 }
 
-.gohan img{
-    /* padding-top: 100px; */
-    padding-left: 300px;
-    border-right: solid 10px skyblue;
-}
-
-p{
-    margin-right: 200px;
-}
-
-h2{
-    margin-left: 150px;
-    margin-top: 50px;
-    font-size: 30px;
-}
-
-#breakfast{
-    margin-top: 100px;
-}
-
-#lunch{
-    margin-left: 180px;
-}
-
-#dinner{
-    margin-left: 180px;
-}
